@@ -74,13 +74,13 @@ El sistema está compuesto por cuatro capas principales:
 
 ## 📦 Contenido del Repositorio
 
-Este repositorio contiene:
+Este repositorio contiene la siguiente estructura principal:
 
-/ai-models → Código de la Inteligencia Artificial
-/frontend → Interfaz web de control y visualización
-/videos → Video explicativo del proyecto
-/reports → Informes técnicos y documentación
 
+ai-models/   → Código de la Inteligencia Artificial  
+frontend/    → Interfaz web de control y visualización  
+videos/      → Video explicativo del proyecto  
+reports/     → Informes técnicos y documentación  
 
 ---
 
